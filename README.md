@@ -1,10 +1,10 @@
-# 📱 ONClass - MVP (Controle de Presença Inteligente)
+#  ONClass - MVP (Controle de Presença Inteligente)
 
 > **Transformando o controle de presença em uma barreira intransponível contra fraudes acadêmicas.**
 
 Este repositório contém o **MVP (Produto Mínimo Viável)** do projeto ONClass, desenvolvido como Prova de Conceito (PoC) para a disciplina de Projeto Integrador do curso de Análise e Desenvolvimento de Sistemas (Faculdade INBEC).
 
-## 🎯 O Problema
+##  O Problema
 
 Sistemas tradicionais de presença baseados em links estáticos ou QR Codes impressos são frágeis e facilmente burláveis no ambiente acadêmico (gerando um risco de até 40% de fraude).
 
@@ -14,17 +14,17 @@ Sistemas tradicionais de presença baseados em links estáticos ou QR Codes impr
 
 * Total ausência de comprovação física ou geográfica real do aluno.
 
-## 💡 A Solução (Funcionalidades do MVP)
+##  A Solução (Funcionalidades do MVP)
 
 O ONClass restaura a integridade das métricas de comparecimento através de um sistema de validação em múltiplas camadas:
 
-* ⏱️ **O Ciclo dos 10 Segundos (QR Code Dinâmico):** O código projetado em sala expira e regenera-se automaticamente a cada 10 segundos. Imagens fotográficas ou capturas de tela enviadas por WhatsApp tornam-se completamente inválidas logo após o registro.
+*  **O Ciclo dos 10 Segundos (QR Code Dinâmico):** O código projetado em sala expira e regenera-se automaticamente a cada 10 segundos. Imagens fotográficas ou capturas de tela enviadas por WhatsApp tornam-se completamente inválidas logo após o registro.
 
-* 👨‍🏫 **Painel do Docente:** Gerador dinâmico de chamadas, controle total da sessão em tempo real e registro auditável (logs de IP e hashes).
+*  **Painel do Docente:** Gerador dinâmico de chamadas, controle total da sessão em tempo real e registro auditável (logs de IP e hashes).
 
-* 🎓 **Portal do Estudante:** Autenticação segura cruzando dados de matrícula para garantir a identidade de quem registra a presença.
+*  **Portal do Estudante:** Autenticação segura cruzando dados de matrícula para garantir a identidade de quem registra a presença.
 
-## 🚀 Como este MVP foi construído (Validação Ágil com IA)
+##  Como este MVP foi construído (Validação Ágil com IA)
 
 Para validar a ideia, a regra de negócio dos 10 segundos e a mecânica de funcionamento rapidamente, este MVP foi construído com forte utilização de **Inteligência Artificial Generativa (Gemini e ChatGPT)**.
 
@@ -36,7 +36,7 @@ Atuei na **orquestração e engenharia de prompts** para arquitetar e gerar a ap
 
 *Nota: Estas tecnologias foram utilizadas exclusivamente para a validação rápida da Prova de Conceito (PoC), com foco em visão de produto e entrega de valor.*
 
-## 🎥 Demonstração Prática
+##  Demonstração Prática
 
 Assista ao vídeo abaixo para observar a regra de negócio principal em ação:
 
@@ -52,13 +52,13 @@ No vídeo, é possível conferir:
 
 3. O aluno tenta utilizar um token após a renovação do cronômetro ➡️ **Falha na Validação: Token expirado.**
 
-## 🔄 Próximos Passos (Roadmap da Equipe)
+##  Próximos Passos (Roadmap da Equipe)
 
 A fase de validação individual do MVP foi concluída com sucesso.
 
 **Status atual:** O projeto entrará agora em fase de **reestruturação arquitetural**. Juntamente com a equipe do Projeto Integrador, iremos refatorar o sistema e definir a stack definitiva (com foco em robustez, escalabilidade e back-end estruturado) para a entrega final da disciplina.
 
-### 👥 Equipe do Projeto
+###  Equipe do Projeto
 
 * Brena Carvalho
 
