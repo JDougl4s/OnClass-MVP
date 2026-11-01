@@ -39,9 +39,7 @@ Atuei na **orquestração e engenharia de prompts** para arquitetar e gerar a ap
 ##  Demonstração Prática
 
 Assista ao vídeo abaixo para observar a regra de negócio principal em ação:
-
 [![Demonstração do MVP ONClass](https://img.youtube.com/vi/5PrMSyF7QGU/0.jpg)](https://youtu.be/5PrMSyF7QGU)
-
 *(Clique na imagem acima para assistir à demonstração no YouTube)*
 
 No vídeo, é possível conferir:
