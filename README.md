@@ -1,4 +1,3 @@
-[readme_md.md](https://github.com/user-attachments/files/34239253/readme_md.md)
 # 📱 ONClass - MVP (Controle de Presença Inteligente)
 
 > **Transformando o controle de presença em uma barreira intransponível contra fraudes acadêmicas.**
